@@ -1,0 +1,2 @@
+"""WowRevenue authorization guard package."""
+
